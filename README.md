@@ -1,16 +1,16 @@
-# market_list_project
+# Projeto: Lista de Mercado 🛒
 
-A new Flutter project.
+Projeto de Lista de Mercado para a disciplina de Tópicos Avançados de Programação!
 
-## Getting Started
+## Ferramentas 🛠
 
-This project is a starting point for a Flutter application.
+- Dart
+- Flutter
+- SqfLite
+- Pdf
+- Printing
+- Rive
 
-A few resources to get you started if this is your first Flutter project:
+## Desenvolvedor 👨🏻‍💻
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Pedro Sawczuk - 2022105100002 
